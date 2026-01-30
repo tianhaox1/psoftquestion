@@ -3,6 +3,7 @@ public class Hello {
 
         System.out.println("Hello from Hao!");
         System.out.println("Meow");
+        System.out.println("hi");
 
     }
 }
